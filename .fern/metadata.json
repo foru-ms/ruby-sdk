@@ -1,0 +1,9 @@
+{
+  "cliVersion": "3.37.3",
+  "generatorName": "fernapi/fern-ruby-sdk",
+  "generatorVersion": "1.0.0-rc76",
+  "generatorConfig": {
+    "clientClassName": "ForumClient"
+  },
+  "sdkVersion": "0.0.1"
+}
