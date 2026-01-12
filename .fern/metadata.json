@@ -3,7 +3,8 @@
   "generatorName": "fernapi/fern-ruby-sdk",
   "generatorVersion": "1.0.0-rc76",
   "generatorConfig": {
-    "clientClassName": "ForumClient"
+    "clientClassName": "ForumClient",
+    "moduleName": "Forum"
   },
-  "sdkVersion": "0.0.1"
+  "sdkVersion": "0.0.2"
 }

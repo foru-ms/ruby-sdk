@@ -10,6 +10,7 @@ module Forum
       @raw_client = Forum::Internal::Http::RawClient.new(
         base_url: base_url || Forum::Environment::PRODUCTION,
         headers: {
+          "User-Agent" => "foru-ms-sdk/0.0.2",
           "X-Fern-Language" => "Ruby",
           "x-api-key" => api_key.to_s
         }

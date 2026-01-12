@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    forum (0.0.1)
+    forum (0.0.2)
 
 GEM
   remote: https://rubygems.org/

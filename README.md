@@ -1,10 +1,10 @@
-# Foru.ms Ruby Library
+# Forum Ruby Library
 
 ![](https://foru.ms/images/cover.png)
 
 [![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-Built%20with%20Fern-brightgreen)](https://buildwithfern.com?utm_source=github&utm_medium=github&utm_campaign=readme&utm_source=https%3A%2F%2Fgithub.com%2Fforu-ms%2Fruby-sdk)
 
-The Foru.ms Ruby library provides convenient access to the Foru.ms APIs from Ruby.
+The Forum Ruby library provides convenient access to the Forum APIs from Ruby.
 
 ## Table of Contents
 
